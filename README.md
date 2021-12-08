@@ -1,5 +1,5 @@
 # Random-Pizza-Topping-Generator
-This is a random pizza topping generator that I wrote it for fun during my spare time xD                                        
+This is a random pizza topping generator that I wrote it for fun during my spare time                                         
 The pizza operations team says that would like to test the machine with 50 pizzas created with a random assortment of pizza toppings.                           
 Output a file with 1 pizza on each line and some random assortment of toppings. However, every pizza needs to have tomato sauce (because reasons).                  
 
